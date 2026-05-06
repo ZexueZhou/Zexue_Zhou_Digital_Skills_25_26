@@ -1,0 +1,4 @@
+﻿query,bpm,spectral_centroid_mean,spectral_complexity_mean,silence_rate_mean,spectral_energy_mean,hardness,duration_effective
+electrical hum,105.268,2184.226,6.585,0.816,0.113,52.528,10.655
+machine hum,148.667,746.135,1.787,1.0,0.001,53.375,9.395
+transformer hum,99.938,1429.218,5.396,0.866,0.053,58.011,8.059

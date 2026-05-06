@@ -1,0 +1,103 @@
+﻿boundary_condition,count
+unbounded sky,2
+overhanging eaves,2
+wooden fence barrier,2
+narrow ledge under air conditioner,1
+open ledge with water,1
+linear narrow ledge,1
+open with water backdrop,1
+water edge boundary,1
+sharp light-shadow contrast,1
+open urban plaza adjacent to street,1
+open railing boundary,1
+narrow edge under shade,1
+solid vertical plane and ledge edge,1
+sharp vertical and horizontal edges,1
+solid roof tiles,1
+open edge with natural backdrop,1
+open air with natural backdrop,1
+uneven rocky surface,1
+open cityscape with tall buildings,1
+sharp architectural ledge,1
+steep angled roofline,1
+undefined urban edge,1
+sloped tiled surface,1
+unbounded airspace,1
+dusk with silhouetted buildings,1
+semi-open pedestrian zone,1
+soft natural boundary,1
+undefined,1
+enclosed by mesh netting,1
+solid wall backdrop,1
+narrow vertical enclosure,1
+sharp edge perch,1
+open wooden edge,1
+sheltered edge,1
+semi-enclosed sheltered ledge,1
+protected recessed ledge,1
+sheltered recessed corner,1
+rough concrete ledge overhang,1
+sheltered wooden beams,1
+sheltered narrow corner,1
+sheltered corner under eaves,1
+sheltered eaves corner,1
+"open, leafy environment",1
+solid elevated wall,1
+constrained artificial gap,1
+open sky with chimney elements,1
+building parapet and chimneys,1
+building edge with chimney,1
+sharp vertical edge with metal coping,1
+raised concrete edge with metal railing,1
+open sky with statue perch,1
+open sky with minimal visual barriers,1
+river and pedestrian bridge,1
+loose rubble with metal debris,1
+low wooden fence boundary,1
+open paved surface with surrounding soil edge,1
+anti-bird spikes installed,1
+spiked deterrent edge,1
+preventive bird spikes,1
+spiked anti-perch boundary,1
+sharp anti-bird spikes,1
+concrete arch enclosure,1
+concrete pillars and low light,1
+temporary barrier with mesh screen,1
+metal fence barrier,1
+metal fence boundary,1
+chain-link fence boundary,1
+chain link fence with tree overlap,1
+metal fence with wooden benches,1
+wooden privacy fence,1
+wooden fence with barbed wire,1
+metal grid fence,1
+wooden vertical slat fence,1
+permeable wooden fence with gaps,1
+wood log railing boundary,1
+dense thorny branches,1
+vegetation boundary with buildings,1
+concrete edge meets dense shrub,1
+wire mesh fence,1
+tree bark surface,1
+soft natural barrier,1
+structural metal grid backdrop,1
+water edge with floating debris,1
+natural branch boundary,1
+river edge with man-made structures,1
+soft natural ground,1
+semi-enclosed wooden box,1
+open platform boundary,1
+narrow horizontal platform,1
+rail tracks and loose gravel,1
+open water and steel railing,1
+metal railing edge,1
+not visible,1
+metal railing barrier,1
+concrete arches with water edge,1
+semi-enclosed concrete structure,1
+unfenced open green patch,1
+open lawn,1
+natural and built interface,1
+open half-enclosed urban space,1
+temporary wooden and metal fence,1
+solid stone wall with vegetation,1
